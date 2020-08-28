@@ -1,0 +1,13 @@
+docker container stop
+
+#list id's only;
+docker container
+ ls -aq 
+ 
+stop all containers (doesn't work? why?
+sudo docker container stop $(sudo docker container ls -aq)
+
+# remove stopped  containers
+docker container rm $(sudo docker container ls -aq)
+
+
