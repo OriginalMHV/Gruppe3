@@ -1,0 +1,9 @@
+.idea/*
+database
+build.cmd
+build.sh
+setup.cmdan
+setup.sh
+README.MD
+.src/config.properties
+target
