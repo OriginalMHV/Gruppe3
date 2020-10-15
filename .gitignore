@@ -1,0 +1,6 @@
+.idea/*
+build.cmd
+build.sh
+setup.cmd
+setup.sh
+target
