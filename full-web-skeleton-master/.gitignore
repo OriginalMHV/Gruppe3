@@ -1,0 +1,8 @@
+.idea/*
+database
+target
+build.cmd
+build.sh
+setup.cmd
+setup.sh
+/src/config.properties
